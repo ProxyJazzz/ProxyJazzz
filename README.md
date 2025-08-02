@@ -64,7 +64,3 @@
 > I believe in learning by building — every project is a new level unlocked. 🎮
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</p>
