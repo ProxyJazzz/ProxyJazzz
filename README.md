@@ -26,16 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🧠 Tech Stack
 
 <div align="left">
